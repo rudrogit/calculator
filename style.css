@@ -43,8 +43,8 @@ body{background-color: #4bcffa;}
 .rowx input{
     /* width:20%;
     padding:6% 0%; */
-    width:80px;
-    height: 80px;
+    width:75px;
+    height: 75px;
     color:white;
     cursor: pointer;
     border-radius:50%;
@@ -54,7 +54,6 @@ body{background-color: #4bcffa;}
     outline:0;
     border: 1px solid black;
     background-color: rgb(40, 37, 37);
-    box-shadow: -2px -3px 15px 0px rgba(200, 199, 199, 0.75);
 }
 
 .rowx input:nth-last-child(1){
