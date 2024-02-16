@@ -43,8 +43,8 @@ body{background-color: #4bcffa;}
 .rowx input{
     /* width:20%;
     padding:6% 0%; */
-    width:75px;
-    height: 75px;
+    width:80px;
+    height: 80px;
     color:white;
     cursor: pointer;
     border-radius:50%;
